@@ -1,3 +1,3 @@
-![wine bottles with a hammer from afar](bottles-wide.jpg)
-![wine bottles from upclose](bottles-close.jpg)
-![wine bottle bottom indent detail](bottle-bottom.jpg)
+![wine bottles with a hammer from afar](img/bottles-wide.jpg)
+![wine bottles from upclose](img/bottles-close.jpg)
+![wine bottle bottom indent detail](img/bottle-bottom.jpg)
