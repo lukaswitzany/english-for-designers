@@ -21,4 +21,4 @@ It was now obvious why bottles have that concave dimple in the bottom.
 
 ![wine bottle bottom indent detail](img/bottle-bottom.jpg)
 
-[Wanna go back?](index.md)
+[Return to index](index.md)
