@@ -21,4 +21,9 @@ It was now obvious why bottles have that concave dimple in the bottom.
 
 ![wine bottle bottom indent detail](img/bottle-bottom.jpg)
 
+And so it broke
+
+![Letterform J made of broken glass](img/letterfrom-J.png)
+
+---
 [Return to index](index.md)
