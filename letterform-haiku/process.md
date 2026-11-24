@@ -16,3 +16,5 @@ I gave it some thought and realized stress concentrates in corners in materials.
 
 
 It was now obvious why bottles have that concave dimple in the bottom.
+
+[Wanna go back?](index.md)
