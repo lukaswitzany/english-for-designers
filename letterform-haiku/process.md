@@ -23,7 +23,7 @@ It was now obvious why bottles have that concave dimple in the bottom.
 
 And so it broke
 
-![Letterform J made of broken glass](img/letterform-J.png)
+![Letterform J made of broken glass](img/letterform-j.png)
 
 ---
 [Return to index](index.md)
