@@ -14,9 +14,11 @@ At first, I tried to smash them without much thought, banging them on the sides.
 I gave it some thought and realized stress concentrates in corners in materials. Bottles break when you throw them in the trash, right?
 
 
-![wine bottle bottom indent detail](img/bottle-bottom.jpg)
+![Stress concentration diagram](img/stress-concentration-diagram.jpg)
 
 
 It was now obvious why bottles have that concave dimple in the bottom.
+
+![wine bottle bottom indent detail](img/bottle-bottom.jpg)
 
 [Wanna go back?](index.md)
